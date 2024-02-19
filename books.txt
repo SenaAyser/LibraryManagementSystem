@@ -1,0 +1,3 @@
+Harry Potter,    J.K Rowling,    1997,    280
+Heidi,    Johanna Spyri,    1880,    90
+Hobbit,    J. R. R. Tolkien,    1937,    350
